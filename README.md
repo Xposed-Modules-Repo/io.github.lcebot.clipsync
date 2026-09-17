@@ -1,6 +1,6 @@
 # ClipSync
 
-**Share one clipboard between your rooted Android devices and your Windows PC.**
+**Share one clipboard across your rooted Android devices and your Windows PC.**
 Copy on the phone, paste on the PC. Copy on the PC, paste on the tablet. Text, images and files.
 
 No account, no cloud, no relay server — the devices talk to your PC directly, and everything on the
